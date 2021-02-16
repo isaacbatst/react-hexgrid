@@ -8,7 +8,7 @@
 [![Live demo](https://img.shields.io/badge/live-demo-brightgreen.svg?style=flat-square)](https://hellenic.github.io/react-hexgrid/examples/)
 ![License](https://img.shields.io/npm/l/react-hexgrid.svg)
 
-> This is just a fork for the [original package](https://www.npmjs.com/package/react-hexgrid) that merges [tbe pull request](https://github.com/Hellenic/react-hexgrid/pull/24) that updates Context API.
+> This is just a fork for the [original package](https://www.npmjs.com/package/react-hexgrid) that merges [the pull request](https://github.com/Hellenic/react-hexgrid/pull/24) that updates Context API.
 
 React components to build interactive hexagons grids. It uses SVG which makes it fast, scalable and easy to apply custom styles. You can easily customize the layout of the grid just by configuration.
 
