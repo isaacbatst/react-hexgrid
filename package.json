@@ -1,7 +1,7 @@
 {
   "name": "react-hexgrid-with-context-api",
   "description": "Interactive hexagon grids with React bindings, with new Context API",
-  "version": "1.0.6",
+  "version": "1.0.9",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "author": "isaacbatst",
