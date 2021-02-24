@@ -37,7 +37,8 @@
   },
   "files": [
     "lib/",
-    "dist/"
+    "dist/",
+    "./index.d.ts"
   ],
   "jest": {
     "setupTestFrameworkScriptFile": "<rootDir>test/setupTests.js"
